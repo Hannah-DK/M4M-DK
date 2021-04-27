@@ -1,5 +1,4 @@
 # M4M-DK
-source folder for readthedocs
 
 This repository contains source files and the `readthedocs` configuration for maintaining and producing the following online resource:
 
