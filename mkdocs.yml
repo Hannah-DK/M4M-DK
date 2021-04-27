@@ -1,6 +1,5 @@
 site_name: Metadata for Machines
 nav:
-    - Introduction: Introduction.md
     - Homework: Homework.md
     - Rules of Engagement: Rules of Engagement.md
     - Curriculum: Curriculum.md
