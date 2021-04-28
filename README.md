@@ -2,7 +2,7 @@
 
 This repository contains source files and the `readthedocs` configuration for maintaining and producing the following online resource:
 
-link follows
+https://m4m-dk.readthedocs.io/en/latest/
 
 Metadata for machines (or short M4M) workshops provide researchers with information and material on how to make their metadata machine actionable. 
 
