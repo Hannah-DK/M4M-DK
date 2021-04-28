@@ -1,4 +1,4 @@
-rsite_name: Metadata for Machines
+site_name: Metadata for Machines
 nav:
     - Preparatory Work: Preparatory Work.md
     - Rules of Engagement: Rules of Engagement.md
