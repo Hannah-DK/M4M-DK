@@ -1,4 +1,4 @@
-# Curriculum
+# Program
 
 ## Day 1
 | #   | Duration   | Agenda Item                                                                                                            |
