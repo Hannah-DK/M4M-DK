@@ -1,4 +1,4 @@
-# **Homework for the DeIC M4M online workshop**
+# **Preparatory Work for the DeIC M4M online workshop**
 
 ## **Mandatory for everyone**:
 1. Read the [**Rules of Engagement**](https://github.com/m4m-dk/workshop-material/blob/main/Rules%20of%20Engagement.md) document.
