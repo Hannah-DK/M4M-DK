@@ -19,7 +19,7 @@
 Select datasets for which you want to create machine-actionable metadata. Selected datasets should not contain sensitive data and ideally should be already public.
 Determine relevant domain specific standards, subject terms and concepts, variables etc.
  
-## **Mandatory for at least one person** 
+## **Mandatory for at least one person**: 
 Select one person (preferably two), who will volunteer to be the groups data champion - someone who is dedicated to continue to lead the groups work towards FAIR metadata after the workshop is completed. Let DeiC know who will take these roles. Each data champion will work towards becoming an expert in developing and maintaining:
 
 1. Controlled vocabularies, starting with simple tools such as: [https://excel2rdf.readthedocs.io](https://excel2rdf.readthedocs.io/en/latest/)
