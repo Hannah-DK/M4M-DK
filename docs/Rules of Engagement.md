@@ -6,17 +6,20 @@ This document is meant to align expectations between **workshop organizers**, **
 The objective for the participants is to get their data sets to comply with the most critical FAIR data principle - adding machine actionable metadata to their data. The workshop focuses on practical aspects of this principle, taught mainly through exercises. 
 
 Therefore, the workshop is:
+
 - About metadata and not data
 - Condensed (2 x ½ day) and has limited time for discussions and theory 
 - Focused almost exclusively on practical work
 - For anyone who knows how to use a computer, Excel, Slack and browse the Internet
 
 The success criteria are the publication of:
+
 - At least one controlled vocabulary containing at least one controlled term
 - At least one instance of a machine-actionable metadata record.
  
 ## Participants
 Participants are expected to work actively, dedicated and focused on these objectives. These entail:
+
 - Doing homework (ca. ½ day) prior to the workshop 
 - Attending the workshop with all accounts set up, and operational computers (There will be no time to fix technical issues during the workshop).
 - Attending the pre-workshop meeting in order to be the most efficient during the time in the workshop.
@@ -24,7 +27,8 @@ Participants are expected to work actively, dedicated and focused on these objec
 - Posing mainly practical questions and refrain from debating conceptual, scientific and technology choices (opinions on these matters are welcome in the dedicated Slack channel or the Github repository). 
  
 ## Organizers
-Will be available for answering questions in Slack (Zoom may be used if it expedites the process) during normal work hours 
+Will be available for answering questions in Slack (Zoom may be used if it expedites the process) during normal work hours
+
 - Before the workshop
 - During the workshop
 - Between the workshop days 
