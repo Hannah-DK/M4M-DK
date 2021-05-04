@@ -1,4 +1,4 @@
-# **Preparatory Work**
+**Preparatory Work**
 
 **Mandatory for everyone**:
 1. Read the [**Rules of Engagement**](https://m4m-dk.readthedocs.io/en/latest/Rules%20of%20Engagement/) document.
@@ -15,18 +15,18 @@
 
 7. You need to provide either a gmail address or an e-mail address that is linked to a Google account [**find a tutorial here**](https://support.google.com/accounts/answer/27441)
  
-**Mandatory for the group**:
+**Mandatory for the group**:<br />
 Select datasets for which you want to create machine-actionable metadata. Selected datasets should not contain sensitive data and ideally should be already public.
 Determine relevant domain specific standards, subject terms and concepts, variables etc.
  
-**Mandatory for at least one person**: 
+**Mandatory for at least one person**:<br />
 Select one person (preferably two), who will volunteer to be the groups data champion - someone who is dedicated to continue to lead the groups work towards FAIR metadata after the workshop is completed. Let DeiC know who will take these roles. Each data champion will work towards becoming an expert in developing and maintaining:
 
 1. Controlled vocabularies, starting with simple tools such as: [https://excel2rdf.readthedocs.io](https://excel2rdf.readthedocs.io/en/latest/)
 
 2. Metadata templates using the CEDAR workbench: watch/read the [**tutorial**](https://metadatacenter.github.io/cedar-manual/) and the [**video**](https://www.youtube.com/watch?v=plqBnYESXbw)
  
-**If you are not already familiar with the topic, it is nice to**:
+**If you are not already familiar with the topic, it is nice to**:<br />
 1. Read the [**FAIRytale**](https://zenodo.org/record/2248200) to get acquainted with the basic concepts of FAIR
 
 2. Navigate [**https://howtofair.dk/**](https://howtofair.dk/) to get a further impression of what going FAIR means from a practical perspective
