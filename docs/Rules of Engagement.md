@@ -5,15 +5,13 @@ This document is meant to align expectations between **workshop organizers**, **
 Workshop objective, format and success criteria
 The objective for the participants is to get their data sets to comply with the most critical FAIR data principle - adding machine actionable metadata to their data. The workshop focuses on practical aspects of this principle, taught mainly through exercises. 
 
-**Therefore, the workshop is**
-
+**Therefore, the workshop is**<br />
 - About metadata and not data
 - Condensed (2 x ½ day) and has limited time for discussions and theory 
 - Focused almost exclusively on practical work
 - For anyone who knows how to use a computer, Excel, Slack and browse the Internet
 
-**The success criteria are the publication of**
-
+**The success criteria are the publication of**<br />
 - At least one controlled vocabulary containing at least one controlled term
 - At least one instance of a machine-actionable metadata record.
  
@@ -42,8 +40,7 @@ _For this reason participants are asked to choose datasets for exercises that ar
 
 Observers are not allowed into the Slack channel.
 
-The rules for Observers during the workshop are:
-
+The rules for Observers during the workshop are:<br />
 - Observers must have their microphone and video turned off at all times.
 - Observers must not write comments in the Zoom chat, or in any other way disturb the proceedings.
 - Questions, comments and suggestions by observers are welcome, however, only through e-mail correspondence with the DeIC organisers.
