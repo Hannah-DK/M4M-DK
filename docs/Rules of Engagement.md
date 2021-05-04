@@ -18,6 +18,7 @@ The objective for the participants is to get their data sets to comply with the 
 - At least one instance of a machine-actionable metadata record.
  
 **Participants**
+
 Participants are expected to work actively, dedicated and focused on these objectives. These entail:
 
 - Doing homework (ca. ½ day) prior to the workshop 
@@ -27,6 +28,7 @@ Participants are expected to work actively, dedicated and focused on these objec
 - Posing mainly practical questions and refrain from debating conceptual, scientific and technology choices (opinions on these matters are welcome in the dedicated Slack channel or the Github repository). 
  
 **Organizers**
+
 will be available for answering questions in Slack (Zoom may be used if it expedites the process) during normal work hours
 
 - Before the workshop
