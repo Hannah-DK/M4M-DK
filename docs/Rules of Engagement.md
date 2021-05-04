@@ -1,4 +1,4 @@
-# Rules of Engagement for the DeIC M4M online workshop
+**Rules of Engagement**
  
 This document is meant to align expectations between **workshop organizers**, **participants** and **observers**.
  
