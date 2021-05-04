@@ -1,7 +1,7 @@
 # **Preparatory Work for the DeIC M4M online workshop**
 
 ## **Mandatory for everyone**:
-1. Read the [**Rules of Engagement**](https://github.com/m4m-dk/workshop-material/blob/main/Rules%20of%20Engagement.md) document.
+1. Read the [**Rules of Engagement**](https://m4m-dk.readthedocs.io/en/latest/Rules%20of%20Engagement/) document.
 
 2. Get an [**ORCID**](https://orcid.org/signin)
 
