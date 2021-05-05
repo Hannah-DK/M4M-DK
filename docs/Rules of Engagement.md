@@ -6,33 +6,34 @@ Workshop objective, format and success criteria
 The objective for the participants is to get their data sets to comply with the most critical FAIR data principle - adding machine actionable metadata to their data. The workshop focuses on practical aspects of this principle, taught mainly through exercises. 
 
 **Therefore, the workshop is**<br />
-- About metadata and not data
-- Condensed (2 x ½ day) and has limited time for discussions and theory 
-- Focused almost exclusively on practical work
-- For anyone who knows how to use a computer, Excel, Slack and browse the Internet
+
+- About metadata and not data.
+- Condensed (2 x ½ day) and has limited time for discussions and theory.
+- Focused almost exclusively on practical work.
+- For anyone who knows how to use a computer, Excel, Slack and browse the Internet.
 
 **The success criteria are the publication of**<br />
 
-- At least one controlled vocabulary containing at least one controlled term
+- At least one controlled vocabulary containing at least one controlled term.
 - At least one instance of a machine-actionable metadata record.
  
 **Participants**
 <br />are expected to work actively, dedicated and focused on these objectives. These entail:
 
-- Doing homework (ca. ½ day) prior to the workshop 
+- Doing homework (ca. ½ day) prior to the workshop. 
 - Attending the workshop with all accounts set up, and operational computers (There will be no time to fix technical issues during the workshop).
 - Attending the pre-workshop meeting in order to be the most efficient during the time in the workshop.
 - Doing homework (ca. ½ day) in between the 2 workshop days.
 - Posing mainly practical questions and refrain from debating conceptual, scientific and technology choices (opinions on these matters are welcome in the dedicated Slack channel or the Github repository). 
-- During the workshop the research group decides on one data champion, who will carry on the work after completion
+- During the workshop the research group decides on one data champion, who will carry on the work after completion.
  
 **Organizers** 
 
-<br />will be available for answering questions in Slack (Zoom may be used if it expedites the process) during normal work hours
-- Before the workshop
-- During the workshop
-- Between the workshop days 
-- Up to one month after the workshop 
+<br />will be available for answering questions in Slack (Zoom may be used if it expedites the process) during normal work hours:
+- Before the workshop.
+- During the workshop.
+- Between the workshop days. 
+- Up to one month after the workshop. 
 
 The Slack channel will only retain messages one month.
 
@@ -43,6 +44,7 @@ _For this reason participants are asked to choose datasets for exercises that ar
 Observers are not allowed into the Slack channel.
 
 The rules for Observers during the workshop are:<br />
+
 - Observers must have their microphone and video turned off at all times.
 - Observers must not write comments in the Zoom chat, or in any other way disturb the proceedings.
 - Questions, comments and suggestions by observers are welcome, however, only through e-mail correspondence with the DeIC organisers.
