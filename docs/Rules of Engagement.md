@@ -28,8 +28,8 @@ The objective for the participants is to get their data sets to comply with the 
 - During the workshop the research group decides on one data champion, who will carry on the work after completion.
  
 **Organizers** 
-
 <br />will be available for answering questions in Slack (Zoom may be used if it expedites the process) during normal work hours:
+
 - Before the workshop.
 - During the workshop.
 - Between the workshop days. 
