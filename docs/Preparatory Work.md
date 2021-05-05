@@ -1,6 +1,7 @@
 **Preparatory Work**
 
 **Mandatory for everyone**:
+
 1. Read the [**Rules of Engagement**](https://m4m-dk.readthedocs.io/en/latest/Rules%20of%20Engagement/) document.
 
 2. Get an [**ORCID**](https://orcid.org/signin)
@@ -27,6 +28,7 @@ Select one person (preferably two), who will volunteer to be the groups data cha
 2. Metadata templates using the CEDAR workbench: watch/read the [**tutorial**](https://metadatacenter.github.io/cedar-manual/) and the [**video**](https://www.youtube.com/watch?v=plqBnYESXbw)
  
 **If you are not already familiar with the topic, it is nice to**:<br />
+
 1. Read the [**FAIRytale**](https://zenodo.org/record/2248200) to get acquainted with the basic concepts of FAIR
 
 2. Navigate [**https://howtofair.dk/**](https://howtofair.dk/) to get a further impression of what going FAIR means from a practical perspective
