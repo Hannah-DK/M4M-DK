@@ -12,6 +12,7 @@ The objective for the participants is to get their data sets to comply with the 
 - For anyone who knows how to use a computer, Excel, Slack and browse the Internet
 
 **The success criteria are the publication of**<br />
+
 - At least one controlled vocabulary containing at least one controlled term
 - At least one instance of a machine-actionable metadata record.
  
@@ -23,10 +24,11 @@ The objective for the participants is to get their data sets to comply with the 
 - Attending the pre-workshop meeting in order to be the most efficient during the time in the workshop.
 - Doing homework (ca. ½ day) in between the 2 workshop days.
 - Posing mainly practical questions and refrain from debating conceptual, scientific and technology choices (opinions on these matters are welcome in the dedicated Slack channel or the Github repository). 
+- During the workshop the research group decides on one data champion, who will carry on the work after completion
  
 **Organizers** 
-<br />will be available for answering questions in Slack (Zoom may be used if it expedites the process) during normal work hours
 
+<br />will be available for answering questions in Slack (Zoom may be used if it expedites the process) during normal work hours
 - Before the workshop
 - During the workshop
 - Between the workshop days 
